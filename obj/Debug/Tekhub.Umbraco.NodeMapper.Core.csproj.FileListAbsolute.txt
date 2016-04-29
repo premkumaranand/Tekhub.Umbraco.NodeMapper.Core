@@ -1,0 +1,6 @@
+C:\Repos\TekhubPlugins\Tekhub.Umbraco.NodeMapper.Core\bin\Debug\Tekhub.Umbraco.NodeMapper.Core.dll
+C:\Repos\TekhubPlugins\Tekhub.Umbraco.NodeMapper.Core\bin\Debug\Tekhub.Umbraco.NodeMapper.Core.pdb
+C:\Repos\TekhubPlugins\Tekhub.Umbraco.NodeMapper.Core\bin\Debug\Tekhub.Extensions.dll
+C:\Repos\TekhubPlugins\Tekhub.Umbraco.NodeMapper.Core\obj\Debug\Tekhub.Umbraco.NodeMapper.Core.csprojResolveAssemblyReference.cache
+C:\Repos\TekhubPlugins\Tekhub.Umbraco.NodeMapper.Core\obj\Debug\Tekhub.Umbraco.NodeMapper.Core.dll
+C:\Repos\TekhubPlugins\Tekhub.Umbraco.NodeMapper.Core\obj\Debug\Tekhub.Umbraco.NodeMapper.Core.pdb
